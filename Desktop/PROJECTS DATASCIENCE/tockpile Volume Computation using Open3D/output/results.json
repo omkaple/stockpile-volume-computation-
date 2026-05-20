@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-05-20T16:17:32.945387",
+  "input_file": "C:\\Users\\VICTUS\\Desktop\\PROJECTS DATASCIENCE\\tockpile Volume Computation using Open3D\\src\\data\\stockpile.ply",
+  "volume_m3": 0.009911,
+  "volume_m3_display": "0.0099 m3",
+  "parameters": {
+    "voxel_size": 0.05,
+    "ransac_distance_threshold": 0.01,
+    "ransac_n": 3,
+    "ransac_iterations": 10000,
+    "outlier_neighbors": 30,
+    "outlier_std_ratio": 2.0
+  }
+}
